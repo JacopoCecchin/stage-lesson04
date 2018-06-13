@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lezione4_0</name>
+    </assembly>
+    <members>
+        <member name="M:Lezione4.App.OnActivated">
+            <summary>
+            Called when [activated].
+            </summary>
+        </member>
+        <member name="M:Lezione4.App.OnDeactivate">
+            <summary>
+            Called when [deactivate].
+            </summary>
+        </member>
+        <member name="F:Lezione4.WaveContent.GameInfo">
+            <summary> Path to Content/Lezione4.wgame </summary>
+        </member>
+        <member name="F:Lezione4.WaveContent.Assets.tree_jpg">
+            <summary> Path to Content/Assets/tree.jpg </summary>
+        </member>
+        <member name="F:Lezione4.WaveContent.Scenes.MyScene">
+            <summary> Path to Content/Scenes/MyScene.wscene </summary>
+        </member>
+    </members>
+</doc>

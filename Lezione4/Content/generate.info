@@ -1,0 +1,47 @@
+﻿<GenerateInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="WaveEditor.Exporter.Model">
+  <files xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>D:/Develop/Stage/Lezione4/Content/Assets/tree.jpg#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>d3a203a89beb73223dbc92c27e3e985b</FileHash>
+        <WinfoHash>d7d547dcf837736ac3a3ab0474b5b07a</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>D:/Develop/Stage/Lezione4/Content/Assets/SpriteSheet.spritesheet#WaveEditor.Exporter.Exporters.SpriteSheetExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>40591da27edf80578ce9e82482590b88</FileHash>
+        <WinfoHash>ed308267490bae54882fb144315e4ee2</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>D:/Develop/Stage/Lezione4/Content/Assets/tree2.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>644d6f5e908e3790076d84dd4b643420</FileHash>
+        <WinfoHash>996bc4d7d5edaaaca2894f28a2a45cba</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>D:/Develop/Stage/Lezione4/Content/Assets/ball.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>57f527396c0b836382c41546d95fc201</FileHash>
+        <WinfoHash>bcbdbdc0ee53243649d952a8be4bb278</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>D:/Develop/Stage/Lezione4/Content/Assets/field.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>5f2b1ca547a55aecafa4d7d9da8c1fdc</FileHash>
+        <WinfoHash>cef9d203a385ea88f0890543206e5a48</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>D:/Develop/Stage/Lezione4/Content/SpriteSheet.spritesheet#WaveEditor.Exporter.Exporters.SpriteSheetExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>d70607fa7f77ddb92a48cd88a197233b</FileHash>
+        <WinfoHash>1efaba87a4eba37739f09fe1ba78016b</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+  </files>
+  <id>BFEBFBFF000306A9</id>
+</GenerateInfo>

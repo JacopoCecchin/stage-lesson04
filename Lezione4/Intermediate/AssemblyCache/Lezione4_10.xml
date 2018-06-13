@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lezione4_10</name>
+    </assembly>
+    <members>
+        <member name="M:Lezione4.App.OnActivated">
+            <summary>
+            Called when [activated].
+            </summary>
+        </member>
+        <member name="M:Lezione4.App.OnDeactivate">
+            <summary>
+            Called when [deactivate].
+            </summary>
+        </member>
+        <member name="F:Lezione4.WaveContent.GameInfo">
+            <summary> Path to Content/Lezione4.wgame </summary>
+        </member>
+        <member name="F:Lezione4.WaveContent.Assets.ball_png">
+            <summary> Path to Content/Assets/ball.png </summary>
+        </member>
+        <member name="F:Lezione4.WaveContent.Assets.field_png">
+            <summary> Path to Content/Assets/field.png </summary>
+        </member>
+        <member name="F:Lezione4.WaveContent.Assets.SpriteSheet_spritesheet">
+            <summary> Path to Content/Assets/SpriteSheet.spritesheet </summary>
+        </member>
+        <member name="F:Lezione4.WaveContent.Assets.tree2_png">
+            <summary> Path to Content/Assets/tree2.png </summary>
+        </member>
+        <member name="T:Lezione4.WaveContent.Assets.SpriteSheet_spritesheet_TextureName">
+            <summary> Texture names from spritesheet Content/Assets/SpriteSheet.spritesheet </summary>
+        </member>
+        <member name="F:Lezione4.WaveContent.Scenes.MyScene">
+            <summary> Path to Content/Scenes/MyScene.wscene </summary>
+        </member>
+    </members>
+</doc>
